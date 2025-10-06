@@ -11,4 +11,6 @@ Make sure to import the following modules:
     pip install os (if not installed already)
     pip install IPython
 
+Make sure to replace the localhost port and model to deploy!    
+
 Happy Coding!     
